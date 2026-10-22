@@ -1,0 +1,6 @@
+{
+  "name": "SENAI SP - SGEM | Gestão de Estoques",
+  "description": "Sistema de Gestão de Estoque de Materiais do SENAI SP com cadastro hierárquico, movimentações em tempo real, relatórios detalhados e persistência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
